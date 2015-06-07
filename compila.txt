@@ -1,0 +1,4 @@
+gcc -m32 -S copia.c
+gcc -m32 -o copia copia.c
+gcc -m32 -S -O2 -o copia-O2.s copia.c
+gcc -m32 -O2 copia-O2 copia.c

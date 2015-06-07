@@ -1,0 +1,6 @@
+./copia
+./copia a dre
+./copia dre
+./copia-O2
+./copia-O2 a dre
+./copia-O2 dre
