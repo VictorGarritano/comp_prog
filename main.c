@@ -4,6 +4,6 @@ int buf[2] = {1,2};
 
 int main(void)
 {
-	swap()
+	swap();
 	return 0;
 }
