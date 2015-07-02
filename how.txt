@@ -1,0 +1,5 @@
+gcc -m32 -c main.c
+gcc -m32 -c swap.c
+readelf -s swap.o
+ld -o swap main.o swap.o
+./swap
